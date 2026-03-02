@@ -2,8 +2,9 @@
 ---
 
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=ZyZhang&fontSize=80&animation=fadeIn&fontAlignY=40&desc=%E8%BF%BD%E9%A3%8E%E8%B5%B6%E6%9C%88%E8%8E%AB%E5%81%9C%E7%95%99%20%E5%B9%B3%E8%8A%9C%E5%B0%BD%E5%A4%84%E6%98%AF%E6%98%A5%E5%B1%B1&descAlignY=65&descAlign=50" width="100%" />
 
-# 👋 Hello，I am LittleRookie！
+# 👋 Hello，I am Zhenyu！
 
 [![GitHub 粉丝](https://img.shields.io/github/followers/LittleRookie1115?style=social)](https://github.com/LittleRookie1115)
 [![Gmail Badge](https://img.shields.io/badge/-768726812@qq.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:768726812@qq.com)
@@ -12,13 +13,12 @@
 
 ## 🚀 About Me
 
-I am an undergraduate student majoring in Computer Science at Tongji University, passionate about artificial intelligence, software development, and cutting-edge technology.
+I am an undergraduate student majoring in Computer Science at Tongji University, passionate about artificial intelligence, software development, and embodied AI.
 
-- 🔭 Currently working on machine learning and deep learning projects
+- 🔭 Currently working on acceleration of Large Model Training and Inference and embodied AI
 - 🌱 Learning data structures, algorithms, and low-level operating system development
 - 👯 Looking to collaborate on open-source projects with like-minded peers
 - 🤔 Open to discussions and help on technical topics or study experiences
-- 💬 Feel free to ask me about Python, C++, or Ubuntu
 - 📫 Contact me via GitHub or email: 768726812@qq.com
 - ⚡ Fun fact: I love exploring new technologies, photography, and computer game
 
@@ -43,14 +43,14 @@ I am an undergraduate student majoring in Computer Science at Tongji University,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📈 GitHub Stats
+## 🐍 GitHub Contributions
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LittleRookie1115&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookie1115&layout=compact&theme=radical" alt="Top Languages" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LittleRookie1115/LittleRookie1115/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LittleRookie1115/LittleRookie1115/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LittleRookie1115/LittleRookie1115/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
