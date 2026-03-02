@@ -47,9 +47,9 @@ I am an undergraduate student majoring in Computer Science at Tongji University,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleRookie1115&show_icons=true&theme=radical&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LittleRookie1115&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookie1115&layout=compact&theme=radical&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRookie1115&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
