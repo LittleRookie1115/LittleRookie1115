@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am an undergraduate student majoring in Computer Science at Tongji University, passionate about artificial intelligence, software development, and embodied AI.
+I am an undergraduate student majoring in Computer Science at Tongji University and an incoming Ph.D. student at Shanghai Jiao Tong University, passionate about artificial intelligence, software development, and embodied AI.
 
 - 🔭 Currently working on acceleration of Large Model Training and Inference and embodied AI
 - 🌱 Learning data structures, algorithms, and low-level operating system development
@@ -21,6 +21,10 @@ I am an undergraduate student majoring in Computer Science at Tongji University,
 - 🤔 Open to discussions and help on technical topics or study experiences
 - 📫 Contact me via GitHub or email: 768726812@qq.com
 - ⚡ Fun fact: I love exploring new technologies, photography, and computer game
+
+## 🏢 Organizations
+
+- [![SJTU-DDST](https://img.shields.io/badge/SJTU--DDST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJTU-DDST)
 
 ## 🛠️ Tech Stack & Tools
 
